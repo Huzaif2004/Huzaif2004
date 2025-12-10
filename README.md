@@ -37,5 +37,5 @@ Improving system design and backend scalability
 
 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
-Email: huzaifahamed25@gmail.com
+1.LinkedIn: https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
+2.Email: huzaifahamed25@gmail.com
