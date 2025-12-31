@@ -31,6 +31,8 @@ https://github.com/Huzaif2004/HOSPITAL_MANAGEMENT_SYSTEM_WITH_DISEASE_PREDICTION
 Career Compass – Career Assistant
 A career guidance application that compares resumes with job descriptions and provides match scores and improvement suggestions. The project focuses mainly on backend services and integrating ML/NLP logic into the application flow.
 
+GitHub: https://github.com/Huzaif2004/Career_Compass_Job_and_Career_Assistant
+
 What I’m Interested In
 
 Backend development with Java and Spring Boot
