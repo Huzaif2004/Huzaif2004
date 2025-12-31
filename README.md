@@ -8,11 +8,11 @@ I like learning by building things, fixing issues, and improving existing code. 
 
 **Technologies & Tools**
 
-**Languages**: Java, C++, Python ;
-**Backend**: Spring Boot, REST APIs ;
-**Database**: MySQL ;
-**Frontend**: HTML, CSS, React ;
-**Tools**: Git, Postman, VS Code ;
+**Languages**: Java, C++, Python ;                                                                                         
+**Backend**: Spring Boot, REST APIs ;                                  
+**Database**: MySQL ;                                   
+**Frontend**: HTML, CSS, React ;                             
+**Tools**: Git, Postman, VS Code ;                       
 
 **Projects**
 
