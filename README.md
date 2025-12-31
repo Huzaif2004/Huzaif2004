@@ -48,7 +48,7 @@ https://github.com/Huzaif2004/HOSPITAL_MANAGEMENT_SYSTEM_WITH_DISEASE_PREDICTION
 **Connect With Me**
 
 - LinkedIn:
-https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
+https://www.linkedin.com/in/ahamed-al-huzaif-s-93683023b/
 
 - Email:
 huzaifahamed25@gmail.com
