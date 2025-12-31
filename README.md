@@ -1,4 +1,4 @@
-**Software Developer | Backend Engineer****
+**Software Developer | Backend Engineer**
 
 I’m a final-year engineering student who enjoys building backend systems that actually work in real-world scenarios. Most of my work is around Java, Spring Boot, and MySQL, where I focus on writing clean backend logic, designing REST APIs, and structuring applications in a clear and maintainable way. I do have experience with frontend technologies, but my real interest lies in backend development and system design.
 
