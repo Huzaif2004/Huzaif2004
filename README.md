@@ -8,11 +8,11 @@ I like learning by building things, fixing issues, and improving existing code. 
 
 **Technologies & Tools**
 
-**Languages**: Java, C++, Python ;                                                                                         
-**Backend**: Spring Boot, REST APIs ;                                  
-**Database**: MySQL ;                                   
-**Frontend**: HTML, CSS, React ;                             
-**Tools**: Git, Postman, VS Code ;                       
+- **Languages**: Java, C++, Python ;                                                                                         
+- **Backend**: Spring Boot, REST APIs ;                                  
+- **Database**: MySQL ;                                   
+- **Frontend**: HTML, CSS, React ;                             
+- **Tools**: Git, Postman, VS Code ;                       
 
 **Projects**
 
@@ -39,16 +39,21 @@ https://github.com/Huzaif2004/HOSPITAL_MANAGEMENT_SYSTEM_WITH_DISEASE_PREDICTION
 
 **What I’m Interested In**
 
-Backend development with Java and Spring Boot
+- Backend development with Java and Spring Boot
 
-API design and system architecture
+- API design and system architecture
 
-Using machine learning as a supporting layer in software systems
+- Using machine learning as a supporting layer in software systems
 
 **Connect With Me**
 
-LinkedIn:
+- LinkedIn:
 https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
 
-Email:
+- Email:
 huzaifahamed25@gmail.com
+
+**Coding Platform Profiles:**
+
+- **LeetCode: **https://leetcode.com/u/Huzaif_04
+
