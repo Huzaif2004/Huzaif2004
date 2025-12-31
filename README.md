@@ -1,41 +1,48 @@
-Software Developer | Full Stack Engineer | Exploring ML
+Software Developer | Backend-Focused Engineer
 
-I’m a final year engineering student passionate about building real-world applications using Java, Spring Boot, React, and MySQL. I enjoy working across the stack, from crafting clean backend architectures to developing intuitive frontend interfaces. I am also currently exploring machine learning and how it integrates with traditional software systems.
+I’m a final-year engineering student who enjoys building backend systems that actually work in real-world scenarios. Most of my work is around Java, Spring Boot, and MySQL, where I focus on writing clean backend logic, designing REST APIs, and structuring applications in a clear and maintainable way. I do have experience with frontend technologies, but my real interest lies in backend development and system design.
+
+I’ve also worked on projects where machine learning is used as part of the system, not as a standalone experiment. In these projects, ML models are integrated into backend services through APIs to support features like prediction and intelligent decision-making. This helped me understand how data-driven logic fits into normal software workflows.
+
+I like learning by building things, fixing issues, and improving existing code. I’m especially interested in understanding how backend systems scale, how data flows through applications, and how to write code that is easy to maintain and extend.
 
 Technologies & Tools
 
-Languages: Java, C++ , Python
-
+Languages: Java, C++, Python
 Backend: Spring Boot, REST APIs
-
-Frontend: React, HTML, CSS
-
 Database: MySQL
-
+Frontend : HTML, CSS, React
 Tools: Git, Postman, VS Code
 
-Learning: Machine Learning , API Integrations , RAG
+Projects
 
-Featured Projects
-1 . Online Food Delivery Application
+Online Food Delivery Application
+A full-stack project with strong backend logic, including authentication, cart handling, sorting and filtering, admin features, and REST-based services.
 
-Full-stack application with authentication, cart management, sorting/filtering, admin features, and REST API services.
-Link: https://github.com/Huzaif2004/Online_Food_Delivery_Application
+GitHub:
+https://github.com/Huzaif2004/Online_Food_Delivery_Application
 
-2 . Hospital Management System
+Hospital Management System with Disease Prediction
+A backend-focused system that manages patient records, doctors, appointments, and lab workflows. It also integrates a machine learning model for disease prediction through backend APIs.
 
-Backend-focused project handling patient records, appointments, doctor management, and database workflows.
-Link: https://github.com/Huzaif2004/HOSPITAL_MANAGEMENT_SYSTEM_WITH_DISEASE_PREDICTION
+GitHub:
+https://github.com/Huzaif2004/HOSPITAL_MANAGEMENT_SYSTEM_WITH_DISEASE_PREDICTION
 
-Currently Exploring
+Career Compass – Career Assistant
+A career guidance application that compares resumes with job descriptions and provides match scores and improvement suggestions. The project focuses mainly on backend services and integrating ML/NLP logic into the application flow.
 
-Machine learning fundamentals
+What I’m Interested In
 
-Using ML with software applications
+Backend development with Java and Spring Boot
 
-Improving system design and backend scalability
+API design and system architecture
+
+Using machine learning as a supporting layer in software systems
 
 Connect With Me
 
-1.LinkedIn: https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
-2.Email: huzaifahamed25@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/ahamed-al-huzaif-93683023b
+
+Email:
+huzaifahamed25@gmail.com
