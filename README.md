@@ -55,5 +55,5 @@ huzaifahamed25@gmail.com
 
 **Coding Platform Profiles:**
 
-- **LeetCode: **https://leetcode.com/u/Huzaif_04
+- **LeetCode**: https://leetcode.com/u/Huzaif_04
 
