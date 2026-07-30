@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ahamed Al Huzaif
+# Hi , I'm Ahamed Al Huzaif
 
 ## Software Developer | Java Backend Engineer
 
@@ -73,7 +73,7 @@ A career assistance platform that parses resumes, performs semantic job matching
 ### 🍔 Online Food Delivery Application
 **Tech:** Spring Boot • React • MySQL
 
-A full-stack food delivery platform featuring REST APIs, menu browsing, diet-based filtering, nutritional information, authentication, and real-time cart management.
+A full-stack food delivery platform featuring REST APIs, menu browsing, diet-based filtering, nutritional information, and real-time cart management.
 
 🔗 https://github.com/Huzaif2004/Online_Food_Delivery_Application
 
@@ -103,3 +103,4 @@ Enterprise microservice-based freight train scheduling and yard operations manag
 ## 📫 Connect with Me
 
 - 📧 huzaifahamed25@gmail.com
+- LinkedIn : https://www.linkedin.com/in/ahamed-al-huzaif-s/
