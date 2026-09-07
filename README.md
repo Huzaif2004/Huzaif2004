@@ -41,7 +41,6 @@ Beyond development, I enjoy learning how large-scale backend systems work, explo
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - DBMS
-- System Design
 
 ---
 
@@ -64,7 +63,12 @@ Beyond development, I enjoy learning how large-scale backend systems work, explo
 ### 🚀 Career Compass – Job & Career Assistant
 **Tech:** Spring Boot • React • MySQL • Elasticsearch
 
-A career assistance platform that parses resumes, performs semantic job matching using Elasticsearch, and provides AI-powered career guidance through a Retrieval-Augmented Generation (RAG) chatbot.
+- Built a full-stack platform (Spring Boot, MySQL, React) that parses resumes (PDF/DOCX), extracts skills, and 
+matches them against job descriptions using Elasticsearch-based semantic search.
+- Implemented top-K similarity search with re-ranking using a weighted score across skills, experience, and 
+semantic similarity for accurate resume-to-JD matching. 
+- Integrated a RAG-based chatbot that retrieves resume context from Elasticsearch to generate grounded, 
+personalized career guidance and skill-gap insights. 
 
 🔗 https://github.com/Huzaif2004/Career_Compass_Job_and_Career_Assistant
 
@@ -73,21 +77,19 @@ A career assistance platform that parses resumes, performs semantic job matching
 ### 🍔 Online Food Delivery Application
 **Tech:** Spring Boot • React • MySQL
 
-A full-stack food delivery platform featuring REST APIs, menu browsing, diet-based filtering, nutritional information, and real-time cart management.
+- Built a full-stack food delivery platform (React, Spring Boot, MySQL) with REST APIs for browsing menus and 
+managing carts.
+- Designed diet-based menu filtering (vegan, keto, etc.) with nutritional information displayed per item, helping 
+users make health-conscious ordering decisions. 
+- Implemented cart management with real-time item and quantity updates. 
 
 🔗 https://github.com/Huzaif2004/Online_Food_Delivery_Application
 
 ---
 
-### 🚆 RailFlow (Internship Project)
-
-Enterprise microservice-based freight train scheduling and yard operations management system built during my internship at Cognizant.
-
----
-
 ## 🏆 Achievements
 
-- Solved **400+** problems on LeetCode.
+- Solved **440+** problems on LeetCode.
 - Solved **100+** problems on GeeksforGeeks.
 - Strong interest in backend engineering and software architecture.
 
