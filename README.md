@@ -14,7 +14,6 @@ Beyond development, I enjoy learning how large-scale backend systems work, explo
 
 ### Languages
 - Java
-- C++
 - SQL
 
 ### Backend
@@ -23,6 +22,7 @@ Beyond development, I enjoy learning how large-scale backend systems work, explo
 - REST APIs
 - Microservices
 - Spring AOP
+- Spring Cloud
 
 ### Databases & Search
 - MySQL
@@ -40,7 +40,7 @@ Beyond development, I enjoy learning how large-scale backend systems work, explo
 ### CS Fundamentals
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- DBMS
+- Database Management Systems
 
 ---
 
@@ -89,7 +89,7 @@ users make health-conscious ordering decisions.
 
 ## 🏆 Achievements
 
-- Solved **440+** problems on LeetCode.
+- Solved **450+** problems on LeetCode.
 - Solved **100+** problems on GeeksforGeeks.
 - Strong interest in backend engineering and software architecture.
 
